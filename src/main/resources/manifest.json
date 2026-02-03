@@ -1,0 +1,20 @@
+{
+  "Group": "de.hytalede",
+  "Name": "event.system",
+  "Version": "0.1.0-SNAPSHOT",
+  "Description": "Plan and join events.",
+  "Authors": [
+    {
+      "Name": "HytaleDE",
+      "Email": "noreplay@example.test",
+      "Url": "https://hytalecommunity.de"
+    }
+  ],
+  "Website": "https://hytalecommunity.de",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "Main": "de.hytalede.event.system.EventSystemPlugin"
+}

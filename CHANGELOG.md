@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - Project basics like license, code of conduct, etc.
+- Command /event which displays a basic blank user interface
 
 [Unreleased]: https://github.com/HytaleDE/java.hytalede.event.system/compare/f873fc8e67e27936b59f27f0ab6be46d862fdf16...HEAD
 
